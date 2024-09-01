@@ -69,4 +69,10 @@ Here's an example of how the keystrokes are logged in `keylogs.txt`:
 
 ![Screenshot 2024-09-01 183219](https://github.com/user-attachments/assets/2fede18d-c171-42ef-94a1-1d209bd1b8b8)
 
+# Disclaimer
 
+This software is provided for educational purposes. The misuse of keylogging software can lead to severe legal consequences. Ensure that you have permission to use this tool.
+
+# License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
