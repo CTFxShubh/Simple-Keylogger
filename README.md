@@ -66,3 +66,8 @@ Unauthorized usage of keyloggers is illegal and unethical. Always ensure that yo
 # Example
 
 Here's an example of how the keystrokes are logged in `keylogs.txt`:
+
+```bash
+![Screenshot 2024-09-01 183219](https://github.com/user-attachments/assets/2fede18d-c171-42ef-94a1-1d209bd1b8b8)
+```
+
