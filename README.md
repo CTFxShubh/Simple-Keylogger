@@ -17,3 +17,11 @@ To run this keylogger, you need:
 Python 3.x
 
 Python library: `pynput`
+
+# Installation
+
+Clone the repository:
+```bash
+git clone https://github.com/your-username/simple-keylogger.git
+cd simple-keylogger
+```
