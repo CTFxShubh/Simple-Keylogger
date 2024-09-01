@@ -52,3 +52,13 @@ Once the keylogger starts, it will log every key pressed on the keyboard and sav
 3. Stopping the keylogger:
 
 To stop the keylogger, press `Ctrl + C` in the terminal or manually close the program.
+
+# Ethical Considerations
+
+Keylogging can be a highly invasive technique and should only be used for ethical purposes, such as:
+
+-> Monitoring your own devices: Only log keystrokes on systems you own or have explicit permission to monitor.
+
+-> Educational purposes: Learning and understanding how keyloggers work and the risks associated with them.
+
+Unauthorized usage of keyloggers is illegal and unethical. Always ensure that you have full consent from the device's owner before using this or any keylogging software.
