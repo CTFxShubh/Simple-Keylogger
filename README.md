@@ -27,6 +27,13 @@ git clone https://github.com/CTFxShubh/PRODIGY_CS_Task-04.git
 cd simple-keylogger
 ```
 
-Install the required Python library:
+2. Install the required Python library:
 
 Install the `pynput` library using `pip`:
+
+```bash
+pip install pynput
+```
+
+# Usage 
+
