@@ -62,3 +62,7 @@ Keylogging can be a highly invasive technique and should only be used for ethica
 -> Educational purposes: Learning and understanding how keyloggers work and the risks associated with them.
 
 Unauthorized usage of keyloggers is illegal and unethical. Always ensure that you have full consent from the device's owner before using this or any keylogging software.
+
+# Example
+
+Here's an example of how the keystrokes are logged in `keylogs.txt`:
