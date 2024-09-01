@@ -8,7 +8,7 @@ This project is a basic keylogger program written in Python that captures and lo
 # Features
 
 Logs keystrokes: Captures and records all keys pressed on the keyboard.
-Saves to a file: The recorded keystrokes are saved in a text file (keylogs.txt).
+Saves to a file: The recorded keystrokes are saved in a text file (`keylogs.txt`).
 Runs in the background: Once started, the keylogger works in the background, logging all keyboard activities.
 
 # Requirements
