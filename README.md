@@ -16,4 +16,4 @@ To run this keylogger, you need:
 
 Python 3.x
 
-Python library: pynput
+Python library: `pynput`
