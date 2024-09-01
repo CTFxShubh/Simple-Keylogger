@@ -20,8 +20,13 @@ Python library: `pynput`
 
 # Installation
 
-Clone the repository:
+1. Clone the repository:
+
 ```bash
 git clone https://github.com/your-username/simple-keylogger.git
 cd simple-keylogger
 ```
+
+Install the required Python library:
+
+Install the `pynput` library using `pip`:
