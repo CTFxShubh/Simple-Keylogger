@@ -37,3 +37,18 @@ pip install pynput
 
 # Usage 
 
+1. Run the keylogger:
+
+After installing the required library, run the Python script:
+
+```bash
+python Simple_keylogger.py
+```
+
+2. Logging keystrokes:
+
+Once the keylogger starts, it will log every key pressed on the keyboard and save them in the `keylogs.txt` file in the same directory.
+
+3. Stopping the keylogger:
+
+To stop the keylogger, press `Ctrl + C` in the terminal or manually close the program.
