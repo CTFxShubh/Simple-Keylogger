@@ -75,4 +75,4 @@ This software is provided for educational purposes. The misuse of keylogging sof
 
 # License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the `LICENSE` file for details.
