@@ -1,6 +1,6 @@
 # PRODIGY_CS_Task-04
 ## Simple Keylogger
-
+ 
 # Overview
 
 This project is a basic keylogger program written in Python that captures and logs keystrokes from the user's keyboard. The keylogger runs in the background and logs all keypresses into a text file for review later. It demonstrates how keyloggers work but should only be used for ethical purposes with full permission from the owner of the device.
