@@ -22,8 +22,8 @@ Python library: `pynput`
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/CTFxShubh/PRODIGY_CS_Task-04.git
-cd PRODIGY_CS_Task-04
+git clone https://github.com/CTFxShubh/Simple-Keylogger.git
+cd Simple-Keylogger
 ```
 
 2. Install the required Python library:
