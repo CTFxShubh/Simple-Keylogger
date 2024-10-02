@@ -1,6 +1,5 @@
 # Written by: Shubh Patel
-# Cyber Security Intern at Prodigy Infotech
-# PRODIGY_CS_Task-04
+# Cyber Security Analyst
 # Simple Keylogger Program
 # Create a basic keylogger program that records and logs keystrokes.
 
